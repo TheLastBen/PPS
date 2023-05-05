@@ -7,7 +7,7 @@ integrations:
     ref: paperspace/ds7isjs9l5q2m3j:latest
   stable-diffusion-v2-1:
     type: dataset
-    ref: paperspace/dsq9ftjo24ou0ji:1q23w4u
+    ref: paperspace/dsq9ftjo24ou0ji:latest
   stable-diffusion-diffusers-v2:
     type: dataset
     ref: paperspace/dsip85mcg4dhe8e:latest
