@@ -17,3 +17,6 @@ integrations:
   stable-diffusion-diffusers:
     type: dataset
     ref: paperspace/dsj70qb5x6u9stk:latest
+  stable-diffusion-xl:
+    type: dataset
+    ref: paperspace/dseg53659wn0e6p:latest    
