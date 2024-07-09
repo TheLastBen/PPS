@@ -11,7 +11,7 @@ To run these notebooks in Gradient on a Free GPU, click the Run on Gradient abov
 - Select the "Create" button. The button can be found in the center of the web page in an empty Project, and the top right of the page in a project with existing Notebooks
 - In the Create Notebook page, scroll down to the "Select a machine" section, and select a Free GPU machine. You can also select a more powerful machine, like the A100-80G or A6000, if you want to generate images more quickly or if the Free GPU machines are unavailable. Learn more about our GPU offerings [here](https://docs.paperspace.com/gradient/machines/)
 - Scroll down to the "Advanced options" section, and click the toggle next to the text.
-- In the newly opened dropdown, navigate to the advanced options section and paste the URL [for this repository](https://github.com/TheLastBen/PPS) in the field labeled "Workspace URL"
+- In the newly opened dropdown, navigate to the advanced options section and paste this URL https://github.com/TheLastBen/PPS in the field labeled "Workspace URL"
 - Click "Start Notebook" at the bottom left of the screen to open the Fast Stable Diffusion Paperspace repo in a Gradient Notebook
 
 ## This repository includes
